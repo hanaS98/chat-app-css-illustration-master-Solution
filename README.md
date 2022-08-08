@@ -25,11 +25,11 @@ Users should be able to:
 
 #### Mobile Screen
 
-<img src="images/mobile.png">
+<img src="images/mobile.PNG">
 
 #### Desktop Screen
 
-<img src="images/mobile.png">
+<img src="images/desktop.PNG">
 
 
 
