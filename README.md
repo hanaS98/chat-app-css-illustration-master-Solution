@@ -23,11 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-####Mobile Screen
+#### Mobile Screen
+
 <img src="images/mobile.png">
 
-####Desktop Screen
+#### Desktop Screen
+
 <img src="images/mobile.png">
+
+
 
 ### Links
 
